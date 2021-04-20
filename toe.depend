@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618957642 source:c:\users\alex\desktop\software_kannliste\abgabe\toe\main.c
+	<stdio.h>
+	<stdlib.h>
+
